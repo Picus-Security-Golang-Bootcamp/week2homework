@@ -10,6 +10,6 @@ Using sort and string library, searching book and the books list are compared le
 
 - You can create a list of books as you want.
 
-- You can search for the name of the book as you wish, regardless of whether the letters are big or small.
+- You can search for the name of the book as you wish, regardless of whether the letters are upper or lower
 
 
